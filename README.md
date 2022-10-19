@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishak-dev
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently upgrading my knowledge in JavaScript
+- 🌱 I’m currently upgrading my knowledge in React.js
 - 💞️ I’m looking for Internship
 - 📫 How to reach me contact me on mail : ishak.kazic@gmail.com
 
