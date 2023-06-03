@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishak-dev
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently upgrading my knowledge in React.js
-- 💞️ I’m looking for Internship
+- 👀 I’m interested in Web and Mobile development 
+- 🌱 Exeprience with Java, JavaScript, Sql, Python, Php
+- 💞️ HULK/apps> Mobile Developer
 - 📫 How to reach me contact me on mail : ishak.kazic@gmail.com
 
 <!---
