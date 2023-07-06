@@ -30,7 +30,7 @@
   <a href="https://ba.linkedin.com/in/ishak-kazi%C4%87-a760451a8">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="ishak.kazic@gmail.com">
+  <a mailto="ishak.kazic@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
