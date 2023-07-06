@@ -1,7 +1,7 @@
- I’m @ishak-dev
+
 <div id="header" align="center" >
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=300&animation=twinkling&section=header&text=Ishak%20Kazic&fontColor=ffa703&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=250&animation=twinkling&section=header&text=Ishak%20Kazic&fontColor=ffa703&fontSize=50&fontAlignY=30)
 
 <div>
 
@@ -36,11 +36,6 @@
 </div>
 &nbsp;
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=300&animation=twinkling&section=footer&text=-nl-💻%20HULK/apps>%20Mobile%20Developer&fontColor=ffa703&fontSize=15)
-
-- 👀 I’m interested in Web and Mobile development 
-- 🌱 Exeprience with Java, React, JavaScript, Sql, Python, Php
-- 💻 HULK/apps> Mobile Developer
-- 📫 How to reach me contact me on mail : ishak.kazic@gmail.com
+![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=250&animation=twinkling&section=footer&text=-nl-💻%20HULK/apps>%20Mobile%20Developer&fontColor=ffa703&fontSize=15)
 
 </div>
