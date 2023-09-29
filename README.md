@@ -8,7 +8,7 @@
 
 <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300" />
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ishak-dev&theme=java-dark&hide_border=true&mode=weekly&card_width=500)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishak-dev&layout=compact&theme=vision-friendly-dark&langs_count=8) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ishak-dev&theme=dark)](https://git.io/streak-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishak-dev&layout=compact&theme=vision-friendly-dark&langs_count=8) 
 
 <div style="display: flex; flex-direction: row;">
   <div >
