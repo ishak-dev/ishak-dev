@@ -8,7 +8,7 @@
 
 <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ishak-dev&theme=dark)](https://git.io/streak-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishak-dev&layout=compact&theme=vision-friendly-dark&langs_count=8) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishak-dev&layout=compact&theme=vision-friendly-dark&langs_count=8) 
 
 <div style="display: flex; flex-direction: row;">
   <div >
