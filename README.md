@@ -1,9 +1,5 @@
 
-<div id="header" align="center" >
-  
-![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=250&animation=twinkling&section=header&text=Ishak%20Kazic&fontColor=ffa703&fontSize=50&fontAlignY=30)
 
-<div>
 
 
 <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300" />
@@ -34,8 +30,6 @@
     <img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
-&nbsp;
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=250&animation=twinkling&section=footer&text=-nl-💻%20HULK/apps>%20Mobile%20Developer&fontColor=ffa703&fontSize=15)
 
-</div>
+
